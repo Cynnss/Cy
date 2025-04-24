@@ -1,0 +1,1 @@
+window.alert("Hello Ini Window Alert");
